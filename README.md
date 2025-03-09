@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tushar kadam
 - 👀 I’m interested in ...
-An accomplished problem solver with 14 years of experience building web applications and mobile Application Development. 
-Background includes strong knowledge of front-end development with Angular, React.js, JavaScript, HTML/CSS, SEO and as well as extensive experience of back-end development with Node.js, Deno.js, MongoDB and MySQL. 
+An accomplished problem solver with 14+ years of experience building web mobile applications and  AI/ML (Langchain.js, python) Development. 
+Background includes strong knowledge of front-end development with Angular, React.js, JavaScript, HTML/CSS, SEO and as well as extensive experience of back-end development with Node.js, Deno.js, Langchain.js, python MongoDB and MySQL. 
 
 Creating a Secure REST API in Node.js and as well as consuming REST API in angular.
 Extensive knowledge of object-oriented JavaScript and popular JavaScript libraries.
